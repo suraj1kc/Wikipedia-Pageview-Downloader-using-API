@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
     Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## 9. License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+    This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/). See the LICENSE file for details.
 
 ## 10. Disclaimer
     This project is intended for educational purposes only. The usage of the Wikipedia API is subject to the terms and conditions set by the Wikimedia Foundation. Please ensure that your usage of the application complies with the relevant API usage policies and guidelines.
