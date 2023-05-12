@@ -7,7 +7,7 @@ This Django project allows users to download pageview statistics from Wikipedia 
 - **wikidownloader**: Main project folder containing project-level settings and configurations.
 - **downloader**: Django app folder containing the application logic and templates.
 
-## 1. Installation
+## Installation
 
 To run this project locally, follow these steps:
 
@@ -38,6 +38,11 @@ To run this project locally, follow these steps:
 3. Click the "Download CSV" button.
 4. The application will fetch the pageview data from the Wikipedia API and generate a CSV file.
 5. The CSV file will be automatically downloaded to your local machine.
+
+   E.g. https://en.wikipedia.org/wiki/Nepal
+      
+    ```shell
+    https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Nepal/daily/20001010/20220712
 
 ## Configuration
 
