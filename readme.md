@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
     ```shell
     pip install -r requirements.txt
 
-##4. Start the Django development server:
+4. Start the Django development server:
     ```shell
     python manage.py runserver
 
