@@ -53,7 +53,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). See the `LICENSE` file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
 
 ## Disclaimer
 
