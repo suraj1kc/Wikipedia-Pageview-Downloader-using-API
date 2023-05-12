@@ -7,7 +7,7 @@ This Django project allows users to download pageview statistics from Wikipedia 
 - **wikidownloader**: Main project folder containing project-level settings and configurations.
 - **downloader**: Django app folder containing the application logic and templates.
 
-## Installation
+## 1. Installation
 
 To run this project locally, follow these steps:
 
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 5. Access the application in your web browser at http://localhost:8000.
 
-## 6. Usage
+## 2. Usage
 
   1. Open the application in your web browser.
   2. Paste the URL of the Wikipedia page for which you want to download the pageview statistics.
@@ -39,19 +39,20 @@ To run this project locally, follow these steps:
   4. The application will fetch the pageview data from the Wikipedia API and generate a CSV file.
   5. The CSV file will be automatically downloaded to your local machine.
 
-## 7. Configuration
+## 3. Configuration
+
     The project uses Django as the web application framework and Python for the backend logic. The following dependencies are required and are included in the requirements.txt file:
 
     - Django==4.1.7
     - pandas==1.5.2
     - requests==2.28.1
 
-## 8. Contributing
+## 4. Contributing
     Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## 9. License
+## 5. License
     This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/). See the LICENSE file for details.
 
-## 10. Disclaimer
+## 6. Disclaimer
     This project is intended for educational purposes only. The usage of the Wikipedia API is subject to the terms and conditions set by the Wikimedia Foundation. Please ensure that your usage of the application complies with the relevant API usage policies and guidelines.
 
