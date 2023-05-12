@@ -31,28 +31,30 @@ To run this project locally, follow these steps:
 
 5. Access the application in your web browser at http://localhost:8000.
 
-## 2. Usage
+## Usage
 
-  1. Open the application in your web browser.
-  2. Paste the URL of the Wikipedia page for which you want to download the pageview statistics.
-  3. Click the "Download CSV" button.
-  4. The application will fetch the pageview data from the Wikipedia API and generate a CSV file.
-  5. The CSV file will be automatically downloaded to your local machine.
+1. Open the application in your web browser.
+2. Paste the URL of the Wikipedia page for which you want to download the pageview statistics.
+3. Click the "Download CSV" button.
+4. The application will fetch the pageview data from the Wikipedia API and generate a CSV file.
+5. The CSV file will be automatically downloaded to your local machine.
 
-## 3. Configuration
+## Configuration
 
-    The project uses Django as the web application framework and Python for the backend logic. The following dependencies are required and are included in the requirements.txt file:
+The project uses Django as the web application framework and Python for the backend logic. The following dependencies are required and are included in the `requirements.txt` file:
 
-    - Django==4.1.7
-    - pandas==1.5.2
-    - requests==2.28.1
+- Django==4.1.7
+- pandas==1.5.2
+- requests==2.28.1
 
-## 4. Contributing
-    Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+## Contributing
 
-## 5. License
-    This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/). See the LICENSE file for details.
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## 6. Disclaimer
-    This project is intended for educational purposes only. The usage of the Wikipedia API is subject to the terms and conditions set by the Wikimedia Foundation. Please ensure that your usage of the application complies with the relevant API usage policies and guidelines.
+## License
 
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). See the `LICENSE` file for details.
+
+## Disclaimer
+
+This project is intended for educational purposes only. The usage of the Wikipedia API is subject to the terms and conditions set by the Wikimedia Foundation. Please ensure that your usage of the application complies with the relevant API usage policies and guidelines.
